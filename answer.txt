@@ -1,0 +1,1 @@
+1.Ans--> List component show the List of object and each object shows the property of text which is string and by clicking each list element we can select the list element.
